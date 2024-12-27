@@ -1,4 +1,4 @@
-*.doubleclick.net
+adclick.g.doubleclick.net
 analytics.163.com
 crash.163.com
 crashlytics.163.com
